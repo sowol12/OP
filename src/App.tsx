@@ -41,7 +41,6 @@ import {
   Fall,
 } from "./assets/audio";
 import { Modal } from "./components/Modal";
-
 const SING_OBJ = {
   elec: [
     {
