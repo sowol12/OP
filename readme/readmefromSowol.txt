@@ -9,3 +9,5 @@ you can turn off the device, and mute it as well.
 right buttons are changing the theme of the guitar, left button is changing the random backgrounds.
 the small timelines near to the right button is the time when I played the song.
 Thank you for reading, and please enjoy!
+
+https://tapeweb-f99c5fe49b42.herokuapp.com/
